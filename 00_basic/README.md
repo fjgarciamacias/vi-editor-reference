@@ -1,9 +1,7 @@
 # Basic
 ## Move
-`l`: Right
+     `k`: Up
 
-`h`: Left
+`h`: Left    `l`: Right
 
-`k`: Up
-
-`j`: Down
+     `j`: Down
