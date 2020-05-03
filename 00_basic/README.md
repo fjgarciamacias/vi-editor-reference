@@ -1,4 +1,10 @@
 # Basic
+## Insert
+* `Shift` + `a`: Insert at the end
+* `Shift` + `i`: Insert at the beginning
+* `a`: insert at the next position
+* `i`: insert at the current position
+
 ## Move
 * `h`: Left
 
@@ -18,9 +24,3 @@
 * `N + T + {char}`: jump till before the Nth ocurrence {char} in the current line (left)
 * `N + ;`: repeat the last command N times
 * `N + ,`: repeat the last command N times in the opposite direction
-
-## Insert
-* `Shift` + `a`: Insert at the end
-* `Shift` + `i`: Insert at the beginning
-* `a`: insert at the next position
-* `i`: insert at the current position
