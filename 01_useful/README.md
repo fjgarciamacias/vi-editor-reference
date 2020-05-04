@@ -1,4 +1,5 @@
 # Basic
+**Note**: `N` is an integer number
 ## Insert
 * `Shift` + `a`: Insert at the end
 * `Shift` + `i`: Insert at the beginning
